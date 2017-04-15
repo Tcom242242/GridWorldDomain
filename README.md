@@ -14,5 +14,5 @@ python Gridworlddomain.py
 
 ## Reference
 
-[Potential-Based Difference Rewards for Multiagent Reinforcement Learning]("http://dl.acm.org/citation.cfm?id=2615761")
+[Potential-Based Difference Rewards for Multiagent Reinforcement Learning](http://dl.acm.org/citation.cfm?id=2615761)
 
